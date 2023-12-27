@@ -11,6 +11,6 @@
 ![imjaox GitHub stats](https://github-readme-stats.vercel.app/api?username=imjaox&theme=radical&show_icons=true)
 
 ## Social interaction📲
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao-jp7792@hotmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imjoaox@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-855216254/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/imjaox?igshid=OGQ5ZDc2ODk2ZA==)
